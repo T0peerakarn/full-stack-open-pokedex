@@ -5,6 +5,6 @@ module.exports = defineConfig({
     setupNodeEvents(on, config) { // eslint-disable-line no-unused-vars
 
     },
-    baseUrl: 'http://localhost:8080/',
+    baseUrl: 'http://localhost:5000/',
   },
 })
